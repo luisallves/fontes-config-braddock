@@ -113,3 +113,8 @@ As configurações devem estar dessa forma:
   
   # 3. Reinicie seu VS Code e seu Terminal (Contatos)
   Reinicie seu terminal e o seu VS Code se não funcionar me chama no slack "Luís Alves = Turma 22 - Tribo A"
+  
+  # 4. (DICA) Instale as Extensões que o Braddock usa
+  Não se esqueça de instalar as extensões que o Braddock usa.
+  file:///home/luis/Imagens/exten%C3%A7%C3%B5es%20do%20bradoock.png
+  
