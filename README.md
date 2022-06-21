@@ -3,7 +3,7 @@ Seja bem vindo, aqui estão todas as fontes necessárias pra deixar seu VS Code 
 Separei ainda algumas dicas que vão ser úteis na hora de configurar o VS Code. 
 
 # 1. Clone este repositório e instale as fontes.
-Clone esse repositório e mova todas as pastas de fontes para: o dioretório 
+Clone esse repositório e mova todas as pastas de fontes para o dioretório: 
 ```sh
 ~/fonts
 ```
