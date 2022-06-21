@@ -111,5 +111,5 @@ As configurações devem estar dessa forma:
 ```
   </details>
   
-  # 3. Reinicie seu VS 
+  # 3. Reinicie seu VS Code e seu Terminal (Contatos)
   Reinicie seu terminal e o seu VS Code se não funcionar me chama no slack "Luís Alves = Turma 22 - Tribo A"
