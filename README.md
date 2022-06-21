@@ -17,7 +17,7 @@ Depois altere a primeira linha das configurações do Braddock para:
 Reinicie seu terminal e o seu VS Code se não funcionar me chama no slack "Luís Alves = Turma 22 - Tribo A"
 
 <details>
-<summary><strong># Você pode copiar as configurações autalizadas</strong></summary><br />
+#<summary><strong> Você pode copiar as configurações autalizadas</strong></summary><br />
   
 As configurações devem estar dessa forma:
   
