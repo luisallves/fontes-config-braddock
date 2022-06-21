@@ -116,5 +116,5 @@ As configurações devem estar dessa forma:
   
   # 4. (DICA) Instale as Extensões que o Braddock usa
   Não se esqueça de instalar as extensões que o Braddock usa.
-  file:///home/luis/Imagens/exten%C3%A7%C3%B5es%20do%20bradoock.png
   
+  ![extenções do bradoock_Easy-Resize com](https://user-images.githubusercontent.com/102390202/174856720-3906cc50-8c6f-4b24-986b-4928c705dd78.jpg)
