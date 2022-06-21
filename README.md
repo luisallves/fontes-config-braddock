@@ -7,17 +7,18 @@ Clone esse repositório e mova todas as pastas de fontes para: o dioretório
 ~/fonts
 ```
 # 2. Edite as configurações do seu VS code.
-Com seu VS Code aberto, Ultilize o atalho abra as configurações, clicando na engrenagem no canto inferior esquerdo do VS Code,
+Com seu VS Code aberto, Ultilize o atalho abra as configurações, clicando na engrenagem no canto inferior esquerdo do VS Code.
+Em seguida abra o arquivo <strong>settings.json</strong> do VS Code clicando no icone da imagem abaixo:
+
+![capitura-de-tela](https://user-images.githubusercontent.com/102390202/174853618-0be3df68-cd9a-4e8d-ad82-d71175ef3c98.jpg)
 
 Depois altere a primeira linha das configurações do Braddock para:
 ```sh
 "editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, 'Courier New', Monospace",
 ```
-
-Reinicie seu terminal e o seu VS Code se não funcionar me chama no slack "Luís Alves = Turma 22 - Tribo A"
-
+Se ainda não aplicou as configurações dele limpe o arquivo e cole o codigo abaixo:
 <details>
-#<summary><strong> Você pode copiar as configurações autalizadas</strong></summary><br />
+<summary><strong>Código completo com as configuraçoes atualizadas</strong></summary><br />
   
 As configurações devem estar dessa forma:
   
@@ -108,3 +109,5 @@ As configurações devem estar dessa forma:
 }
 ```
   </details>
+  # 3. Reinicie seu VS 
+  Reinicie seu terminal e o seu VS Code se não funcionar me chama no slack "Luís Alves = Turma 22 - Tribo A"
