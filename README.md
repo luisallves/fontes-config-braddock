@@ -1,3 +1,4 @@
+# Boas-vindas ao repositório contendo um tutorial e todas as fontes necessárias para configurar o VS do Bradock!
 Seja bem vindo, aqui estão todas as fontes necessárias pra deixar seu VS Code no Shape do Braddock!
 Separei ainda algumas dicas que vão ser úteis na hora de configurar o VS Code. 
 
