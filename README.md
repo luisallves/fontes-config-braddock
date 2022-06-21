@@ -8,7 +8,7 @@ Clone esse repositório e mova todas as pastas de fontes para o dioretório:
 ~/fonts
 ```
 # 2. Edite as configurações do seu VS code.
-Com seu VS Code aberto, Ultilize o atalho ```sh Ctrl + virgula```abra as configurações, clicando na engrenagem no canto inferior esquerdo do VS Code.
+Com seu VS Code aberto, Ultilize o atalho ``` sh Ctrl + virgula ``` abra as configurações, clicando na engrenagem no canto inferior esquerdo do VS Code.
 Em seguida abra o arquivo <strong>settings.json</strong> do VS Code clicando no icone da imagem abaixo:
 
 ![capitura-de-tela](https://user-images.githubusercontent.com/102390202/174853618-0be3df68-cd9a-4e8d-ad82-d71175ef3c98.jpg)
