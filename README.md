@@ -15,7 +15,7 @@ Em seguida abra o arquivo <strong>settings.json</strong> do VS Code clicando no 
 
 Depois altere a primeira linha das configurações do Braddock para:
 ```sh
-"editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, 'Courier New', Monospace",
+"editor.fontFamily": "Fira Code, Operator Mono, Menlo, Monaco, 'Courier New', Monospace",
 ```
 Se ainda não aplicou as configurações dele limpe o arquivo e cole o codigo abaixo:
 <details>
@@ -25,7 +25,7 @@ As configurações devem estar dessa forma:
   
 ```
 {
-"editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, 'Courier New', Monospace",
+"editor.fontFamily": "Fira Code, Operator Mono, Menlo, Monaco, 'Courier New', Monospace",
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
